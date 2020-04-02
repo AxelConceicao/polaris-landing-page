@@ -1,1 +1,3 @@
-# polaris-landing-page
+## Credits
+
+* **Medilab Theme** ([BootstrapMade.com](https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/))
